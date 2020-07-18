@@ -1,6 +1,7 @@
 # MagicKnight
-**Game Level on Unity3D, based on IDTVN lessons:**
-Lesson: https://www.youtube.com/watch?v=CAPVBTKk3Ww
+**Game Level on Unity3D, based on IDTVN lesson**  
+
+https://www.youtube.com/watch?v=CAPVBTKk3Ww
 
 
 ![Image alt](https://github.com/Gosha94/MagicKnight/raw/ActualChanges/Screenshots/Menu.png)
